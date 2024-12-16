@@ -1,0 +1,3 @@
+﻿  Sudoku.c
+C:\Users\imal\Desktop\Progetti\sudoku\Sudoku.c(228,15): warning C4101: 'i': unreferenced local variable
+  sudoku.vcxproj -> C:\Users\imal\Desktop\Progetti\sudoku\x64\Debug\sudoku.exe
